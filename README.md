@@ -1,2 +1,2 @@
-# AI_CTU_1st
-Some homeworks from the first year of Artificial intelligence
+# Artificial Intelligence Program
+Projects  from the first year of Artificial intelligence
